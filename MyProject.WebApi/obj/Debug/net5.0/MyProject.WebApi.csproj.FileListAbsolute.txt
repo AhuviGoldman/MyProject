@@ -1,0 +1,40 @@
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\appsettings.Development.json
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\appsettings.json
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.exe
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.deps.json
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.runtimeconfig.json
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.runtimeconfig.dev.json
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\ref\MyProject.WebApi.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.pdb
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csproj.AssemblyReference.cache
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.AssemblyInfoInputs.cache
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.AssemblyInfo.cs
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csproj.CoreCompileInputs.cache
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\staticwebassets\MyProject.WebApi.StaticWebAssets.Manifest.cache
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\staticwebassets\MyProject.WebApi.StaticWebAssets.xml
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\scopedcss\bundle\MyProject.WebApi.styles.css
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.RazorTargetAssemblyInfo.cache
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csproj.CopyComplete
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\ref\MyProject.WebApi.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.pdb
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.genruntimeconfig.cache
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositories.deps.json
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositories.runtimeconfig.json
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositories.runtimeconfig.dev.json
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositories.exe
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Mock.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositories.dll
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Mock.pdb
+Y:\Groups\3\הרשקוביץ חנה\dotnent\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositories.pdb
+Y:\Groups\3\גולדמן אהובי\DotNet\אהובי גולדמן\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.dll
+Y:\Groups\3\גולדמן אהובי\DotNet\אהובי גולדמן\MyProject\MyProject.WebApi\obj\Debug\net5.0\ref\MyProject.WebApi.dll
+Y:\Groups\3\גולדמן אהובי\DotNet\אהובי גולדמן\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.pdb
